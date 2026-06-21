@@ -12,7 +12,7 @@ MAIN GAME HERE: https://github.com/707HACKERGOD/checkered
 
 ---
 
-*   **[CLICK HERE TO ACCESS THE MAIN GAME](https://github.com/707HACKERGOD/checkered)**
-*   **[CLICK HERE TO PLAY THE LIVE WEB DEMO](https://707hackergod.github.io/demo_checkered/)**
+*   **[CLICK HERE FOR THE MAIN GAME](https://github.com/707HACKERGOD/checkered)**
+*   **[CLICK HERE TO PLAY THE WEB DEMO](https://707hackergod.github.io/demo_checkered/)**
 
 ---
